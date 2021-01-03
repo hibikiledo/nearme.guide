@@ -1,0 +1,6 @@
+[submodule "openspace-api"]
+	path = openspace-api
+	url = git@github.com:hibikiledo/openspace-api.git
+[submodule "openplace-api"]
+	path = openplace-api
+	url = git@github.com:hibikiledo/openspace-api.git
